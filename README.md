@@ -28,4 +28,27 @@ It is the process of systematically collecting, cleaning, transforming, describi
 • Adapting to new types of data and analytical methods as the organization's needs evolve.
 
 Data analysts are the professionals who possess the skills and knowledge required to perform this vital work. They understand how the organization can acquire, clean, and transform data to meet the organization's needs
-![Uploading image.png…]()
+
+
+MAJOR PILLARS OF ANALYTICS
+We have 3 major pillars and those are:
+• Data
+• Storage
+• Computing
+
+CAREERS IN ANALYTICS
+
+Rank	Occupation
+1	Data analysts and scientists
+2	AI and machine learning (ML) specialists
+3	Big Data specialists
+4	Digital marketing and strategy specialists
+5	Process automation specialists
+6	Business development professionals
+7	Digital transformation specialists
+8	Information security analyst
+9	Software and applications developers
+10	Internet of Things (IoT) specialists
+
+
+
