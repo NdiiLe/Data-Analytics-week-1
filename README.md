@@ -31,10 +31,15 @@ Data analysts are the professionals who possess the skills and knowledge require
 
 
 MAJOR PILLARS OF ANALYTICS
+
 We have 3 major pillars and those are:
+
 • Data
+
 • Storage
+
 • Computing
+
 
 CAREERS IN ANALYTICS
 
