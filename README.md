@@ -40,14 +40,23 @@ CAREERS IN ANALYTICS
 
 Rank	Occupation
 1	Data analysts and scientists
+
 2	AI and machine learning (ML) specialists
+
 3	Big Data specialists
+
 4	Digital marketing and strategy specialists
+
 5	Process automation specialists
+
 6	Business development professionals
+
 7	Digital transformation specialists
+
 8	Information security analyst
+
 9	Software and applications developers
+
 10	Internet of Things (IoT) specialists
 
 
